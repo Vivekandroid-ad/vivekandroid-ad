@@ -15,6 +15,10 @@
 - ⚡ **Fun fact:** I love designing beautiful UI with Compose and automating boring stuff 😄  
 
 ---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekweb__) 
